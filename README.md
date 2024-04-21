@@ -1,13 +1,12 @@
-# Brainwave - Modern UI/UX Website
+# Onda Cerebral - UI/UX Principles Website
 
-Brainwave es un proyecto que comienza fácilmente con la última versión de React utilizando un backend y una base de datos reales. Toda la pila está en TypeScript, desde el frontend hasta el backend, lo que te brinda la ventaja de codificar en un solo lenguaje en toda la pila.
+Onda Cerebral es un sitio web moderno de UI/UX, desarrollado utilizando React.js y Tailwind CSS, que ejemplifica los principios modernos de UI/UX. Su diseño elegante, animaciones fluidas y experiencia general del usuario establecen un alto estándar, sirviendo como referencia o inspiración para futuras aplicaciones o sitios web modernos en general.
 
-Este proyecto utiliza la pila MERN:
+Este proyecto utiliza:
 
-- **Mongoose.js (MongoDB)**: base de datos
-- **Express.js**: framework de backend
-- **React.js**: framework de frontend
-- **Node.js**: entorno de ejecución
+- **Vite**
+- **React.js**
+- **Tailwind CSS**
 
 ## Vista previa
 ![Vista previa](https://raw.githubusercontent.com/miltonAlan/react-onda-cerebral/master/capture1.png "Vista previa 1")
@@ -15,21 +14,29 @@ Este proyecto utiliza la pila MERN:
 ![Vista previa](https://raw.githubusercontent.com/miltonAlan/react-onda-cerebral/master/capture3.png "Vista previa 3")
 
 
-## Otras herramientas y tecnologías utilizadas:
+### Características del Proyecto
 
-- **Vite**: estructura de frontend
-- **Tailwind CSS**: diseño y estilos
-- **Font Awesome**: íconos
-- **JSON Web Token**: autenticación de usuarios
-- **Bcrypt.js**: encriptación de contraseñas
+👉 **Secciones Hermosas:** Incluye héroe, servicios, características, cómo usar, hoja de ruta, precios, pie de página y encabezado.
+
+👉 **Animaciones Parallax:** Efectos atractivos activados por el movimiento del mouse y el desplazamiento.
+
+👉 **Geometría de UI Compleja:** Utiliza Tailwind CSS para formas intrincadas como pantallas de características circulares, líneas de cuadrícula y líneas laterales.
+
+👉 **Últimas Tendencias de UI:** Incorpora elementos de diseño moderno como las cuadrículas bento.
+
+👉 **Gradientes Geniales:** Mejora los visuales con gradientes elegantes utilizando Tailwind CSS para tarjetas, botones, etc.
+
+👉 **Responsivo:** Asegura una funcionalidad y estética sin problemas en todos los dispositivos.
+
+y muchos más, incluyendo arquitectura de código y reutilización.
+
 
 ## Requisitos previos
 - Instalar **Node.js** y **MongoDB**.
 - Instalar **npm** (Node Package Manager).
 
-Desde la carpeta raíz del proyecto, instala todas las dependencias:
-```bash
-npm install
+Desde la carpeta raíz del proyecto, instala todas las dependencias: `npm install`
+
 
 
 ## Ayuda
